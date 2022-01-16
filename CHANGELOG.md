@@ -145,6 +145,4 @@
     - removed channelupdate log for now
 
 
-<br><br> 
-
-## ****
+<br><br>
