@@ -15,7 +15,7 @@
 
 # **MITTELBOT CHANGELOG**
 
-## **BTEA VERSION 0.12**
+## **BETA VERSION 0.12**
 
 ### Added things:
     - added permanent feature to ban and mute command
