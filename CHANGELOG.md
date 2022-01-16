@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BTEA VERSION 0.12**
+
+### Added things:
+    - added permanent feature to ban and mute command
+
+### Bug fixes:
+    - 
+
+<br><br>
+
 ## **BETA VERSION 0.11**
 
 ### Added things:
@@ -145,4 +155,6 @@
     - removed channelupdate log for now
 
 
-<br><br>
+<br><br> 
+
+## ****
