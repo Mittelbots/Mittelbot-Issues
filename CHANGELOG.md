@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.13**
+
+### Added things:
+    - improved auto unmute
+
+### Bug fixes:
+    - 
+
+<br><br>
+
 ## **BETA VERSION 0.12**
 
 ### Added things:
