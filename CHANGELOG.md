@@ -15,6 +15,18 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.14**
+
+### Added things:
+    - Complete rework of all moderation commands 
+    - now more functions are more dynamically and can be used at every other command or interaction
+    - tried to improve bots performance
+
+### Bug fixes:
+    - bug fixes
+
+<br><br>
+
 ## **BETA VERSION 0.13**
 
 ### Added things:
