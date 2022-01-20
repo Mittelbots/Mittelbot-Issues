@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.16**
+
+### Added things:
+    - added scripts to create template tables and columns
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.15**
 
 ### Added things:
