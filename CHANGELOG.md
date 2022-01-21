@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.17**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed "heap out of memory"
+
+<br><br>
+
 ## **BETA VERSION 0.16**
 
 ### Added things:
