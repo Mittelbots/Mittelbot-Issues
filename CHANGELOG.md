@@ -15,6 +15,20 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.18**
+
+### Added things:
+    - added integration to add tables and columns automatically
+    - added image viewer on delete message event in auditlog
+    - added checkScam integration
+    - - member gets banned & message gets deleted
+    - - its enabled on default
+
+### Bug fixes:
+    - small bug fixes
+
+<br><br>
+
 ## **BETA VERSION 0.17**
 
 ### Added things:
