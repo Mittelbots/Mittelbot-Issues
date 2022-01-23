@@ -15,6 +15,28 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.21**
+
+### Added things:
+    - added feature to see the actual join time in info command
+    - added scam detection feature with autoban
+
+### Bug fixes:
+    - improved and fixed some bugs in ban functions
+
+<br><br>
+
+## **BETA VERSION 0.20**
+
+### Added things:
+    - updated "config.example.json to lastest version
+
+### Bug fixes:
+    - fixed bug where the bot crashed on unban command when the user isnt banned
+    - fixed rejoin bug where user got the muted role when they are muted on another guild
+
+<br><br>
+
 ## **BETA VERSION 0.19**
 
 ### Added things:
