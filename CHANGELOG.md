@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.19**
+
+### Added things:
+    - added emotes to modlog embed
+    - improved integration to add tables and columns automatically
+
+### Bug fixes:
+    - small bug fixes
+
+<br><br>
+
 ## **BETA VERSION 0.18**
 
 ### Added things:
