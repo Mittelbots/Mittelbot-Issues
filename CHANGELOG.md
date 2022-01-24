@@ -15,6 +15,18 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.22**
+
+### Added things:
+    - reactivate "checkScam" feature & improvements
+    - add guild name to private Punishment response
+
+### Bug fixes:
+    - small bug fixes
+
+
+<br><br>
+
 ## **BETA VERSION 0.21**
 
 ### Added things:
