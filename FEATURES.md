@@ -35,7 +35,12 @@
     - - settings warnroles [role, ...]
 
     - mods [setting] [value] ( ...[more values] )
-    - - mods mr|modroles [role] [(isAdmin)boolean] [(isMod)boolean] [(isHelper)boolean]
+    - - mods mr|modroles [role]
+
+    - scam [setting] [value]
+    - - scam add [link]
+    - - scam delete [link]
+    - - scam view ([link])
 
 <br>
 
