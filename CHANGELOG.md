@@ -15,6 +15,20 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.25**
+
+### Added things:
+    - added better errorhandler
+    - add advanced scamlist feature where every server admin can request to add an specified link
+    - - commands: "add", "delete" and "view" added
+
+### Bug fixes:
+    - bug fixes
+    - bot performance improved
+
+
+<br><br>
+
 ## **BETA VERSION 0.24**
 
 ### Added things:
