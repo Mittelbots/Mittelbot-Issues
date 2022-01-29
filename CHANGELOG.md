@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.24**
+
+### Added things:
+    - Settings to save, update or remove modroles is now with buttons (User friendly 100%)
+
+### Bug fixes:
+    - infractions command bug fixed
+
+
+<br><br>
+
 ## **BETA VERSION 0.23**
 
 ### Added things:
