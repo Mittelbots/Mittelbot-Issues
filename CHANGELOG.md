@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.26**
+
+### Added things:
+    - bot is running on shards now
+
+### Bug fixes:
+    - high memory storage fixed
+
+
+<br><br>
+
 ## **BETA VERSION 0.25**
 
 ### Added things:
