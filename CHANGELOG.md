@@ -15,6 +15,29 @@
 
 # **MITTELBOT CHANGELOG**
 
+
+## **BETA VERSION 0.28**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed bug where every infraction were shown
+
+
+<br><br>
+
+## **BETA VERSION 0.28**
+
+### Added things:
+    - roles will be saved on ban too
+
+### Bug fixes:
+    - huge bug fix
+    - bot should work as usual now
+
+<br><br>
+
 ## **BETA VERSION 0.27**
 
 ### Added things:
