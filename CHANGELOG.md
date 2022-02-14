@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.29**
+
+### Added things:
+    - automatically version control
+
+### Bug fixes:
+    - "database undefined" bug fixed in unban command
+
+
+<br><br>
 
 ## **BETA VERSION 0.28**
 
