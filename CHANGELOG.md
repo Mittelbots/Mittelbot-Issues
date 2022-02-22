@@ -15,6 +15,13 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.31**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - checkForScam function bug fixed
 ## **BETA VERSION 0.30**
 
 ### Added things:
