@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.32**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - checkDatabase is now working as it should
+
+<br><br>
+
 ## **BETA VERSION 0.31**
 
 ### Added things:
@@ -22,6 +32,8 @@
 
 ### Bug fixes:
     - checkForScam function bug fixed
+
+<br><br>
 ## **BETA VERSION 0.30**
 
 ### Added things:
@@ -31,7 +43,7 @@
     - bug fixes
 
 
-<br><br>
+
 
 ## **BETA VERSION 0.29**
 
