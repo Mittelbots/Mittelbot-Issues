@@ -15,6 +15,33 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.33**
+
+### It's time to release a huge new feature: <b>Levelsystem</b> :yus:
+<br>
+
+### Added things:
+    - Levelsystem (BETA)
+    - - !rank (mention) [open to everyone]
+
+    - - !levelsettings rank | r [open to server admins]
+    - - - set level
+    - - - set rankup role or "none"
+    - - - set XP
+
+    - - gain xp per message á 1 min
+
+
+### Bug fixes:
+    - removed whitelist (bot is now private)
+    - "Lines of Code" bug is now fixed and the total lines of self-coded Code will be displayed
+    - bot will now restart each 24h due JavaScript Heap out Memory bug & the bot didn't responsed after 24h+ uptime
+    - disable owner only commands due unhandle bugs
+    - my little bug hunters killed a few bugs too
+
+
+<br><br>
+
 ## **BETA VERSION 0.32**
 
 ### Added things:
