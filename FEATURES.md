@@ -42,9 +42,12 @@
     - - scam delete [link]
     - - scam view ([link])
 
+    - levelsettings [setting]
+    - -  levelsettings rank
 <br>
 
 ## Information
 ----
-    - info ([mention])
+    - info (mention)
     - ping
+    - rank (mention)
