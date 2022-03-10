@@ -15,7 +15,7 @@
 
 # **MITTELBOT CHANGELOG**
 
-## **BETA VERSION 0.34**
+## **BETA VERSION 0.34.0**
 ### Added things:
     - database connection will now be handled by a mysql connection pool
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.33**
+## **BETA VERSION 0.33.0**
 
 ### It's time to release a huge new feature: <b>Levelsystem</b> :yus:
 <br>
@@ -53,7 +53,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.32**
+## **BETA VERSION 0.32.0**
 
 ### Added things:
     - /
@@ -63,7 +63,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.31**
+## **BETA VERSION 0.31.0**
 
 ### Added things:
     - /
@@ -72,7 +72,8 @@
     - checkForScam function bug fixed
 
 <br><br>
-## **BETA VERSION 0.30**
+
+## **BETA VERSION 0.30.0**
 
 ### Added things:
     - /
@@ -83,7 +84,7 @@
 
 
 
-## **BETA VERSION 0.29**
+## **BETA VERSION 0.29.0**
 
 ### Added things:
     - automatically version control
@@ -94,7 +95,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.28**
+## **BETA VERSION 0.28.0**
 
 ### Added things:
     - /
@@ -105,7 +106,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.28**
+## **BETA VERSION 0.27.0**
 
 ### Added things:
     - roles will be saved on ban too
@@ -116,7 +117,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.27**
+## **BETA VERSION 0.26.0**
 
 ### Added things:
     - /
@@ -127,7 +128,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.26**
+## **BETA VERSION 0.25.0**
 
 ### Added things:
     - bot is running on shards now
@@ -138,7 +139,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.25**
+## **BETA VERSION 0.24.0**
 
 ### Added things:
     - added better errorhandler
@@ -152,7 +153,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.24**
+## **BETA VERSION 0.23.0**
 
 ### Added things:
     - Settings to save, update or remove modroles is now with buttons (User friendly 100%)
@@ -163,7 +164,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.23**
+## **BETA VERSION 0.22.0**
 
 ### Added things:
     - /
@@ -175,7 +176,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.22**
+## **BETA VERSION 0.21.0**
 
 ### Added things:
     - reactivate "checkScam" feature & improvements
@@ -187,7 +188,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.21**
+## **BETA VERSION 0.20.0**
 
 ### Added things:
     - added feature to see the actual join time in info command
@@ -198,7 +199,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.20**
+## **BETA VERSION 0.19.0**
 
 ### Added things:
     - updated "config.example.json to lastest version
@@ -209,7 +210,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.19**
+## **BETA VERSION 0.18.0**
 
 ### Added things:
     - added emotes to modlog embed
@@ -220,7 +221,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.18**
+## **BETA VERSION 0.17.0**
 
 ### Added things:
     - added integration to add tables and columns automatically
@@ -234,7 +235,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.17**
+## **BETA VERSION 0.16.0**
 
 ### Added things:
     - /
@@ -244,7 +245,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.16**
+## **BETA VERSION 0.15.0**
 
 ### Added things:
     - added scripts to create template tables and columns
@@ -254,7 +255,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.15**
+## **BETA VERSION 0.14.0**
 
 ### Added things:
     - /
@@ -264,7 +265,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.14**
+## **BETA VERSION 0.13.0**
 
 ### Added things:
     - Complete rework of all moderation commands 
@@ -276,7 +277,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.13**
+## **BETA VERSION 0.12.0**
 
 ### Added things:
     - improved auto unmute
@@ -286,7 +287,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.12**
+## **BETA VERSION 0.11.0**
 
 ### Added things:
     - added permanent feature to ban and mute command
@@ -296,7 +297,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.11**
+## **BETA VERSION 0.10.0**
 
 ### Added things:
     - the "till date" will now shown if it exits in infraction command
@@ -309,7 +310,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.11**
+## **BETA VERSION 0.9.0**
 
 ### Added things:
     - /
@@ -319,7 +320,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.10**
+## **BETA VERSION 0.8.0**
 
 ### Added things:
     - added option to use infraction command with only user id
@@ -329,7 +330,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.9**
+## **BETA VERSION 0.7.0**
 
 ### Added things:
     - [private]
@@ -339,7 +340,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.8**
+## **BETA VERSION 0.6.0**
 
 ### Added things:
     - improved remove all roles function on mute command
@@ -349,7 +350,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.7**
+## **BETA VERSION 0.5.0**
 
 ### Added things:
     - Logging in file
@@ -359,7 +360,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.6**
+## **BETA VERSION 0.4.0**
 
 ### Added things:
     - added server to whitelist
@@ -369,7 +370,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.5**
+## **BETA VERSION 0.3.0**
 
 ### Added things:
     - added feature to remove and save all user roles on mute
@@ -380,7 +381,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.4**
+## **BETA VERSION 0.2.0**
 
 ### Added things:
     - /
@@ -392,7 +393,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.3**
+## **BETA VERSION 0.1.0**
 
 ### Added things:
     - added color to specified auditlog events
@@ -404,7 +405,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.2**
+## **BETA VERSION 0.0.2**
 
 ### Added things:
     - added error handler to ban command
@@ -416,7 +417,7 @@
 
 <br><br> 
 
-## **BETA VERSION 0.1**
+## **BETA VERSION 0.0.1**
 
 ### Added things:
     - added error handler to ban command
