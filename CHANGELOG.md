@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.34**
+### Added things:
+    - database connection will now be handled by a mysql connection pool
+
+
+### Bug fixes:
+    - !mods mr will now return a message when the value is empty
+
+
+<br><br>
+
 ## **BETA VERSION 0.33**
 
 ### It's time to release a huge new feature: <b>Levelsystem</b> :yus:
