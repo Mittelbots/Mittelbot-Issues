@@ -15,6 +15,28 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.34.1**
+### Added things:
+    - /
+
+
+### Bug fixes:
+    - bug fixes
+
+
+<br><br>
+
+## **BETA VERSION 0.34.1**
+### Added things:
+    - /
+
+
+### Bug fixes:
+    - bug fixes
+
+
+<br><br>
+
 ## **BETA VERSION 0.34.0**
 ### Added things:
     - database connection will now be handled by a mysql connection pool
