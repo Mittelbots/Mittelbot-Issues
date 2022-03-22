@@ -15,7 +15,15 @@
 
 # **MITTELBOT CHANGELOG**
 
-## **BETA VERSION 0.34.1**
+## **BETA VERSION 0.34.3**
+### Added things:
+    - give user the value of xp each message in levelsettings
+
+
+### Bug fixes:
+    - /
+
+## **BETA VERSION 0.34.2**
 ### Added things:
     - /
 
