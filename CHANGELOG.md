@@ -15,6 +15,14 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.34.4**
+### Added things:
+    - changed activity system
+
+
+### Bug fixes:
+    - /
+
 ## **BETA VERSION 0.34.3**
 ### Added things:
     - give user the value of xp each message in levelsettings
