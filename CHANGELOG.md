@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.35.0**
+### Added things:
+    - added help command with every command in it
+    - hasPermissions improvements
+
+
+### Bug fixes:
+    - /
+    
+<br><br>
+
 ## **BETA VERSION 0.34.4**
 ### Added things:
     - changed activity system
@@ -22,6 +33,8 @@
 
 ### Bug fixes:
     - /
+
+<br><br>
 
 ## **BETA VERSION 0.34.3**
 ### Added things:
