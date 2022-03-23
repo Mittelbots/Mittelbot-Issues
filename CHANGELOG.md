@@ -15,6 +15,24 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.35.3**
+### Added things:
+    - added new rank card
+
+### Bug fixes:
+    - /
+    
+<br><br>
+
+## **BETA VERSION 0.35.2**
+### Added things:
+    - /
+
+### Bug fixes:
+    - hasPermission bug fix
+    
+<br><br>
+
 ## **BETA VERSION 0.35.1**
 ### Added things:
     - changed Audit-log format
