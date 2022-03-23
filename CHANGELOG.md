@@ -15,6 +15,15 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.35.1**
+### Added things:
+    - changed Audit-log format
+
+### Bug fixes:
+    - /
+    
+<br><br>
+
 ## **BETA VERSION 0.35.0**
 ### Added things:
     - added help command with every command in it
