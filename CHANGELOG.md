@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.35.4**
+### Added things:
+    - /
+
+### Bug fixes:
+    - removed old packages
+    - fixed bug where banned people get unbanned on next check
+    
+<br><br>
+
 ## **BETA VERSION 0.35.3**
 ### Added things:
     - added new rank card
