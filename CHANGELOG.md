@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.36.2**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - small bug fixes
+
+<br><br>
+
 ## **BETA VERSION 0.36.1**
 
 ### Added things:
