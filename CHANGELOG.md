@@ -15,6 +15,26 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.36.1**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed errorhandler in some files
+
+<br><br>
+
+## **BETA VERSION 0.36.0**
+
+### Added things:
+    - added errorhandling on missing permissions
+
+### Bug fixes:
+    - small bug fixes
+
+<br><br>
+
 ## **BETA VERSION 0.35.4**
 ### Added things:
     - /
