@@ -15,6 +15,15 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.36.3**
+
+### Added things:
+    - added timestamp to info command
+
+### Bug fixes:
+    - joined At bug fix
+
+<br><br>
 ## **BETA VERSION 0.36.2**
 
 ### Added things:
