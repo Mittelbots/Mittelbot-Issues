@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.36.4**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed bug where roles didnt got given back after unmute 
+
+<br><br>
+
 ## **BETA VERSION 0.36.3**
 
 ### Added things:
@@ -24,6 +34,7 @@
     - joined At bug fix
 
 <br><br>
+
 ## **BETA VERSION 0.36.2**
 
 ### Added things:
