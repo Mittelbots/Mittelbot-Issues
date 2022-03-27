@@ -14,6 +14,15 @@
 -->
 
 # **MITTELBOT CHANGELOG**
+## **BETA VERSION 0.36.6**
+
+### Added things:
+    - changed bot restart time to 5d
+
+### Bug fixes:
+    - /
+
+<br><br>
 
 ## **BETA VERSION 0.36.5**
 
