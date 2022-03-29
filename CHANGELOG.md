@@ -14,6 +14,18 @@
 -->
 
 # **MITTELBOT CHANGELOG**
+
+## **BETA VERSION 0.37.0**
+
+### Added things:
+    - added "isBanned" command to check if a user is banned or not
+    - added npm script to install log folder
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.36.6**
 
 ### Added things:
