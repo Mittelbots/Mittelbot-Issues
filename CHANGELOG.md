@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.37.1**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Fatal bug fixed when member is muted but dont have any data in member info database
+
+<br><br>
+
 ## **BETA VERSION 0.37.0**
 
 ### Added things:
