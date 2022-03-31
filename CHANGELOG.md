@@ -15,6 +15,15 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.37.2**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - bug fixes on guildMemberRemove &  guildMemberAdd
+
+<br><br>
 ## **BETA VERSION 0.37.1**
 
 ### Added things:
