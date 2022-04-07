@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.38.0**
+
+### Added things:
+    - added ability to disable commands global
+    - added new insert data query on guildCreate
+
+### Bug fixes:
+    - fixed shard crash after 5 days
+
+<br><br>
+
 ## **BETA VERSION 0.37.2**
 
 ### Added things:
@@ -24,6 +35,7 @@
     - bug fixes on guildMemberRemove &  guildMemberAdd
 
 <br><br>
+
 ## **BETA VERSION 0.37.1**
 
 ### Added things:
