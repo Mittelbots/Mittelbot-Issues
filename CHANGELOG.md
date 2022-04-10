@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.38.1**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed shard bug
+    - new dependencies version
+
+<br><br>
+
 ## **BETA VERSION 0.38.0**
 
 ### Added things:
