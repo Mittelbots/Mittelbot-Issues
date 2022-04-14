@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.38.2**
+
+### Added things:
+    - bot will update activity each 12h
+
+### Bug fixes:
+    - update scam manage to working one
+
+<br><br>
+
 ## **BETA VERSION 0.38.1**
 
 ### Added things:
