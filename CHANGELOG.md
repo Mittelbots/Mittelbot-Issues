@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.38.3**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - lowered xp per message
+    - fixed space bug in auditlog
+
+<br><br>
+
 ## **BETA VERSION 0.38.2**
 
 ### Added things:
