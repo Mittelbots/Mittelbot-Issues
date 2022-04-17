@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.38.4**
+
+### Added things:
+    - added crash log to see if the bots crashed or not in logs
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.38.3**
 
 ### Added things:
