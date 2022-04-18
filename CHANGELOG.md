@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.39.0**
+
+### Added things:
+    - added option to remove settings value from database
+
+### Bug fixes:
+    - fixed bug when user clicked on "x" on help command
+
+<br><br>
+
 ## **BETA VERSION 0.38.4**
 
 ### Added things:
