@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.39.1**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - updated severity vulnerabilities
+
+<br><br>
+
 ## **BETA VERSION 0.39.0**
 
 ### Added things:
