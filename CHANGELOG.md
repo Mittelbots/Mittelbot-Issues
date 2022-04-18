@@ -22,6 +22,7 @@
 
 ### Bug fixes:
     - fixed bug when user clicked on "x" on help command
+    - upgraded version of dependecies
 
 <br><br>
 
