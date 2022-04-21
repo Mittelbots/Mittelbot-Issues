@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.39.3**
+
+### Added things:
+    - added new scam domain database
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.39.2**
 
 ### Added things:
