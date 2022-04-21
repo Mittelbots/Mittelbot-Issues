@@ -15,6 +15,18 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.39.2**
+
+### Added things:
+    - added restart after bot crash
+    - changed lines of code (new module & new code)
+    - added feature to delete every past message on ban (limit: 7 days)
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.39.1**
 
 ### Added things:
