@@ -15,6 +15,18 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.39.4**
+
+### Added things:
+    - whitelist link database for checkForScam
+
+### Bug fixes:
+    - fixed owner commands
+    - fixed spawn bug on crash
+    - fixed checkForScam bug (temporary solution)
+
+<br><br>
+
 ## **BETA VERSION 0.39.3**
 
 ### Added things:
