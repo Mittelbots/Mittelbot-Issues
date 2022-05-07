@@ -18,6 +18,17 @@
 ## **BETA VERSION 0.39.4**
 
 ### Added things:
+    - added database backup each day
+    - new dep versions
+
+### Bug fixes:
+    - fixed auto role bug where bots got the user role
+
+<br><br>
+
+## **BETA VERSION 0.39.4**
+
+### Added things:
     - whitelist link database for checkForScam
 
 ### Bug fixes:
