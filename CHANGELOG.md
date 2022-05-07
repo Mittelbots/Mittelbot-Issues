@@ -15,7 +15,7 @@
 
 # **MITTELBOT CHANGELOG**
 
-## **BETA VERSION 0.39.4**
+## **BETA VERSION 0.39.5**
 
 ### Added things:
     - added database backup each day
