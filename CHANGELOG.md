@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.39.6**
+
+### Added things:
+    - added mention to infractions command response when no infractions was found
+    - added abilitiy to ban member who isnt in the guild
+    - worked on checkForScam
+
+### Bug fixes:
+    - fixed unban
+
+
 ## **BETA VERSION 0.39.5**
 
 ### Added things:
