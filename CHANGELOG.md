@@ -15,6 +15,29 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.41.0**
+
+### Added things:
+    - added slash commands
+    - - ban, infractions, isbanned, kick, mute, purge, unban, unmute, warn
+    - disabled normal moderation commands
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.40.0**
+
+### Added things:
+    - added slash commands
+    - - help, info, ping, rank
+
+### Bug fixes:
+    - fixed backup system
+
+<br><br>
+
 ## **BETA VERSION 0.39.6**
 
 ### Added things:
