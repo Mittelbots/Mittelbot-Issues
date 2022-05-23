@@ -15,6 +15,26 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.42.6**
+
+### Added things:
+    - added base structure for cache
+
+### Bug fixes:
+    - yt notifier bug fixes
+
+<br><br>
+
+## **BETA VERSION 0.42.5**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - bug fixes
+
+<br><br>
+
 ## **BETA VERSION 0.42.4**
 
 ### Added things:
