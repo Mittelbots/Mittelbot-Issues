@@ -15,6 +15,87 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.42.3**
+
+### Added things:
+    - added dog command
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.42.2**
+
+### Added things:
+    - added cat command
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.42.1**
+
+### Added things:
+    - added guessnumber command
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.42.0**
+
+### Added things:
+    - added ship & avatar command
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.41.4**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - settings bug fixed 
+
+<br><br>
+
+## **BETA VERSION 0.41.3**
+
+### Added things:
+    - added infraction remove command
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.41.2**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed moderation cmd bug
+    - fixed modlog emote bug
+
+<br><br>
+
+## **BETA VERSION 0.41.1**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - fixed errorhandler (temp)
+
+<br><br>
+
 ## **BETA VERSION 0.41.0**
 
 ### Added things:
