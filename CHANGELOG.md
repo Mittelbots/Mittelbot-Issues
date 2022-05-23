@@ -15,6 +15,16 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.42.4**
+
+### Added things:
+    - added yt notifier APLHA
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.42.3**
 
 ### Added things:
