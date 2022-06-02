@@ -15,6 +15,45 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.1**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Hotfix: fixed sql error when adding a new user
+    - Hotfix: fixed has permissions bug
+
+<br><br>
+
+## **BETA VERSION 0.43.0**
+
+### Added things:
+    - added Cache to the most data
+    - - xp
+    - - config
+    - - modroles
+    - - warnroles
+    - - joinroles
+    - fixed permission issue in /kick command
+    - fixed /info issue where the bot crashed when the user was not in the server
+    - removed deprecated code out of audit log
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.42.7**
+
+### Added things:
+    - added memberinfo & logs & xp to cache
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.42.6**
 
 ### Added things:
