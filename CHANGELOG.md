@@ -15,6 +15,57 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.6**
+
+### Added things:
+    - Added: modlog message on banAdd & banRemove without its triggered with own bot commands
+
+### Bug fixes:
+    - unban sql crash
+
+<br><br>
+
+## **BETA VERSION 0.43.5**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Fixed: crash after restart
+
+<br><br>
+
+## **BETA VERSION 0.43.4**
+
+### Added things:
+    - added slash command to activate/deactivate given modules
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.43.3**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Fixed: ship cmd now dont work if the target is a bot
+    - Fixed: avatar cmd will now display the avatar in a bigger size
+
+<br><br>
+
+## **BETA VERSION 0.43.2**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Hotfix: fixed remove muted role
+
+<br><br>
+
 ## **BETA VERSION 0.43.1**
 
 ### Added things:
