@@ -17,6 +17,7 @@
     - unmute [mention/userid] [reason]
     - warn [mention/userid] [reason]
     - purge [number of messages]
+    - isbanned [mention/userid]
 
 <br>
 
@@ -44,6 +45,19 @@
 
     - levelsettings [setting]
     - -  levelsettings rank
+
+    - modules [module] [Activate/Deactivate]
+<br>
+
+## Fun
+----
+    - avatar [mention/userid]
+    - cats
+    - dogs
+    - guessnumber
+    - ship [mention/userid]
+
+
 <br>
 
 ## Information
@@ -51,3 +65,4 @@
     - info (mention)
     - ping
     - rank (mention)
+    - help
