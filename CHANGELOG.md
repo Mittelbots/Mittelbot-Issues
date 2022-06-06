@@ -15,6 +15,18 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.7**
+
+### Added things:
+    - moved scam link management to slash command 
+    - - /scam add /scam remove /scam view
+    - added option to deactivate/activate the scamlink detection
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.43.6**
 
 ### Added things:
