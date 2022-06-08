@@ -15,6 +15,47 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.11**
+
+### Added things:
+    - Added: Welcomemessage module to disable/activate
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.43.10**
+
+### Added things:
+    - added better backup handling
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.43.9**
+
+### Added things:
+    - added welcome message command to change the welcome message
+    - added welcome message embed on join
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.43.8**
+
+### Added things:
+    - added autotranslate feature
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.43.7**
 
 ### Added things:
