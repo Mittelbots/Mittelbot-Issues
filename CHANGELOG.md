@@ -15,6 +15,81 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.18**
+
+### Added things:
+    - Added: levelsystem slashcommand
+    - - server admins are now able to change the level mode
+
+### Bug fixes:
+    - Fixed: levelcooldown is now guild sperated
+    - Fixed: each xp got replaced with the new value of other users
+
+
+## **BETA VERSION 0.43.17**
+
+### Added things:
+    - Added: BETA Levelsystem
+    - - DM on levelup with next level displayed
+    - - ready levelsystem upto over thousend levels
+    - - improvements
+
+### Bug fixes:
+    - dependecies updated
+
+<br><br>
+
+## **BETA VERSION 0.43.16**
+
+### Added things:
+    - Added: autotranslate module to module setting.
+
+### Bug fixes:
+    - dependecies updated
+
+<br><br>
+
+## **BETA VERSION 0.43.15**
+
+### Added things:
+    - Added: Apply funktion to add up to 5 embeds which can be used for user to one-click apply or just use a external link.
+
+### Bug fixes:
+    - dependecies updated
+
+<br><br>
+
+## **BETA VERSION 0.43.14**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Hotfix
+
+<br><br>
+
+## **BETA VERSION 0.43.13**
+
+### Added things:
+    - Added: Missing module in interactionCreate.js
+    - Added: Moderator to guildBanAdd & guildBanRemove auditlog events
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.43.12**
+
+### Added things:
+    - Moved: settings command to slash commands
+
+### Bug fixes:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.43.11**
 
 ### Added things:
