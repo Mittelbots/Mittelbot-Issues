@@ -15,6 +15,27 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.20**
+
+### Added things:
+    - Added: /leaderboard command to view the top 10 leaders
+    - Added: cache refresh command (owner only)
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.43.19**
+
+### Added things:
+    - Added: rank, level, next level and working progressbar to /rank
+
+### Bug fixes:
+    - Fixed: xp cache where data didnt got reconized and inserted new data to the database everytime a user wrote something
+
+<br><br>
+
 ## **BETA VERSION 0.43.18**
 
 ### Added things:
@@ -25,6 +46,7 @@
     - Fixed: levelcooldown is now guild sperated
     - Fixed: each xp got replaced with the new value of other users
 
+<br><br>
 
 ## **BETA VERSION 0.43.17**
 
