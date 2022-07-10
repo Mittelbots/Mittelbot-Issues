@@ -15,6 +15,31 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.43.22**
+
+### Added things:
+    - /
+
+### Bug fixes:
+    - Fixed: 
+    - - disabled_modules wont be added when bot joins
+    - - logs default value wont be set
+    - - bot crashes when no audit log is set
+
+<br><br>
+
+## **BETA VERSION 0.43.21**
+
+### Added things:
+    - Added: message count to levelsystem
+    - Increased: level multiplication
+
+### Bug fixes:
+    - /
+
+<br><br>
+
+
 ## **BETA VERSION 0.43.20**
 
 ### Added things:
