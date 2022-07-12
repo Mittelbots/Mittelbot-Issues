@@ -15,6 +15,52 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.45.1**
+
+### Added things:
+    - Added: levelup setting
+    - - change between dm and channel
+    
+### Bug fixes:
+    -  Fixed: Missed module added to files
+
+<br><br>
+
+## **BETA VERSION 0.45.0**
+
+### Added things:
+    - Twitch notifier (BETA)
+    - - /settings twitch
+    - - add up to 3 twitch channels at once
+    - - add a ping role
+    - - update info channel & ping role afterwards
+
+    - - /settings deltwitch
+    - - delete twitch channel from the notification list
+    
+### Bug fixes:
+    -  Removed: useless deps
+
+<br><br>
+
+## **BETA VERSION 0.44.0**
+
+### Added things:
+    - Youtube notifier (BETA)
+    - - /settings youtube
+    - - add up to 3 yt channels at once
+    - - add a ping role
+    - - update info channel & ping role afterwards
+
+    - - /settings delyoutube
+    - - delete youtube channel from the notification list
+    
+### Bug fixes:
+    -  Added default value to prefix
+    -  Fixed: Crash when user pass an invalid id or mention (!mods mr command)
+
+<br><br>
+
 ## **BETA VERSION 0.43.22**
 
 ### Added things:
