@@ -15,6 +15,17 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.45.2**
+
+### Added things:
+    - Added: /givexp & /removexp slash commands
+    - Added: disable levelup message setting
+    
+### Bug fixes:
+    -  /
+
+<br><br>
+
 ## **BETA VERSION 0.45.1**
 
 ### Added things:
