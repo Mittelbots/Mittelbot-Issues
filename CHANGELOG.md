@@ -15,6 +15,129 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.47.6**
+
+### Added things:
+    - Added: whitelist channels to audit- and messagelog
+    - Added: Dm each user after accepted/declined or blacklisted
+    
+### Bug fixes:
+    - Removed: 'You cant {type} bot' from some moderation commands
+
+<br><br>
+
+## **BETA VERSION 0.47.5**
+
+### Added things:
+    - Added: blacklist channels to levelsystem
+    
+### Bug fixes:
+    - updated deps
+    - Deleted: Old command files
+
+<br><br>
+
+## **BETA VERSION 0.47.4**
+
+### Added things:
+    - /
+    
+### Bug fixes:
+    - Improved & reworked the community scam list feature
+    - updated deps
+
+<br><br>
+
+## **BETA VERSION 0.47.3**
+
+### Added things:
+    - /
+    
+### Bug fixes:
+    - Fixed: Old version of MessageAttachment
+    - updated deps
+    - Fixed: Button update on click
+
+<br><br>
+
+## **BETA VERSION 0.47.2**
+
+### Added things:
+    - Added whitelist to messageupdate
+    
+### Bug fixes:
+    - Fixed: Whitelist on message delete & improved code
+
+<br><br>
+
+## **BETA VERSION 0.47.1**
+
+### Added things:
+    - /
+    
+### Bug fixes:
+    - Fixed: Activity not apearing
+    - Fixed: Permissions check was undefined
+
+<br><br>
+
+## **BETA VERSION 0.47.0**
+
+### Added things:
+    - Updated Bot to discord.js v14
+    - Updated: Deps
+    
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.46.3**
+
+### Added things:
+    - Added: Sticker detector at auditlog `message delete`
+    - Added: Warn option to automod
+    
+### Bug fixes:
+    - Code improvements
+    - Improved: Anti-Spam
+
+<br><br>
+
+## **BETA VERSION 0.46.2**
+
+### Added things:
+    - Added: anti-invite to automod
+    - - /automod anitinvite
+    
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.46.1**
+
+### Added things:
+    - Added: whitelistroles to automod
+    - - /automod whitelistroles
+    
+### Bug fixes:
+    - Fixed: Bot crash cause undefined content in no perms function
+
+<br><br>
+
+## **BETA VERSION 0.46.0**
+
+### Added things:
+    - Added: antispam system (BETA)
+    - - /automod antispam slash command
+    
+### Bug fixes:
+    - Fixed: Levelsystem: User got stuck in timeout loop
+    - Removed embed at youtube notifier and replaced it with the link
+
+<br><br>
+
 ## **BETA VERSION 0.45.2**
 
 ### Added things:
