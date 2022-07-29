@@ -15,6 +15,44 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.48.1**
+
+### Added things:
+    - Added: Start date to infractions
+    - Added: Cache to open & closed infractions
+    - Moved: Infraction functions to data folder
+    - Added cache support to checkInfraction & /infractions command
+    - Added cache to getOpen/ClosedInfractionsbyUserId function
+    - Added cache to yt / twitch upload handler
+    - Added errorhandling when twitch user is not found
+    
+### Bug fixes:
+    - /
+
+<br><br>
+
+## **BETA VERSION 0.48.0**
+
+### Added things:
+    - Added: Dashboard BETA
+    
+### Bug fixes:
+    - Changed hasPermission function to be available for the dashboard
+
+<br><br>
+
+## **BETA VERSION 0.47.7**
+
+### Added things:
+    - 
+    
+### Bug fixes:
+    - Improved: unmuteUser
+    - Fixed: double tag in modlog
+    - Working on Dashboard
+
+<br><br>
+
 ## **BETA VERSION 0.47.6**
 
 ### Added things:
