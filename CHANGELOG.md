@@ -15,6 +15,33 @@
 
 # **MITTELBOT CHANGELOG**
 
+## **BETA VERSION 0.48.3**
+
+### Added things:
+    - Fixed upload handler (twitch & youtube)
+    - Changed levelconfig
+### Bug fixes:
+    - Fixed permission bug in /purge
+
+### Dashboard:
+    - Select menu will be reseted after selected options
+
+<br><br>
+
+## **BETA VERSION 0.48.2**
+
+### Added things:
+    - Changed joinroles data storage to another table
+    - Added: Joinrole settings editable
+    - Added: dev & production support to dashboard
+    - Removed: Old joinroles functions
+    - Updated: deps
+    
+### Bug fixes:
+    - Some performance & error fixes
+
+<br><br>
+
 ## **BETA VERSION 0.48.1**
 
 ### Added things:
