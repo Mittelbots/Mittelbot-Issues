@@ -15,6 +15,19 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.0**
+
+### Added things:
+    - Added reaction role feature
+    - Changed levelconfig to make things more difficult
+### Bug fixes:
+    - /
+
+### Dashboard:
+    - /
+
+<br><br>
+
 ## **BETA VERSION 0.48.3**
 
 ### Added things:
@@ -58,7 +71,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.48.0**
+# **BETA VERSION 0.48.0**
 
 ### Added things:
     - Added: Dashboard BETA
@@ -146,7 +159,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.47.0**
+# **BETA VERSION 0.47.0**
 
 ### Added things:
     - Updated Bot to discord.js v14
@@ -191,7 +204,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.46.0**
+# **BETA VERSION 0.46.0**
 
 ### Added things:
     - Added: antispam system (BETA)
@@ -225,7 +238,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.45.0**
+# **BETA VERSION 0.45.0**
 
 ### Added things:
     - Twitch notifier (BETA)
@@ -242,7 +255,7 @@
 
 <br><br>
 
-## **BETA VERSION 0.44.0**
+# **BETA VERSION 0.44.0**
 
 ### Added things:
     - Youtube notifier (BETA)
