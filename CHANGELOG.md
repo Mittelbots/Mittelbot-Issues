@@ -15,6 +15,43 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.2**
+
+### Added things:
+    - /bunny command to view cute bunnys
+    - Added: new Changerjs library version
+
+### Bug fixes & other changes:
+    - Code improvements
+    - Switched to random-animals-api for /dogs & /bunny
+
+### Dashboard:
+    - Added: Welcome message channel option
+
+<br><br>
+
+# **BETA VERSION 0.49.1**
+
+### Added things:
+    - Added a bit of debug log to the code (more will come)
+    - Slash Commands: Removed access for bots
+    - ReactionRoles: Added support for default emojis
+    - global: added ignoreMode
+    - Levelsettings: Changed levelconfig multiplier
+    - Console: removed all useless console.logs and replaced them with errorhandler function
+    - Changed REST version for slash commands to default
+
+### Bug fixes:
+    - ReactionRoles: Fixed bug where a bot gets the reaction roles
+    - ReactionRoles: Fixed error where a new created role/emoji wasnt found
+    - Warn Command: Added missing function
+    - Updated a bunch of deps
+
+### Dashboard:
+    - Fixed: Filter error in dashboard
+
+<br><br>
+
 # **BETA VERSION 0.49.0**
 
 ### Added things:
