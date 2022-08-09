@@ -15,6 +15,25 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.3**
+
+### Added things:
+    - Added: max reactionroles to 5
+    - Added: Start date to /infraction command
+
+### Bug fixes & other changes:
+    - Chore(deps): updated Bump @napi-rs/canvas from 0.1.25 to 0.1.26 
+    - Fixed: leaderboard level was higher then the real one
+    - Changed levelconfig (reduced xp on high levels & add more differents between levels)
+    - Fixed: default emote reaction role doesnt triggered event
+    - Fixed: onGuildCreate doesnt added all tables
+    - Removed: Useless tables
+
+### Dashboard:
+    - /
+
+<br><br>
+
 # **BETA VERSION 0.49.2**
 
 ### Added things:
