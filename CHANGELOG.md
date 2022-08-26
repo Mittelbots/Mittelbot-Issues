@@ -15,6 +15,53 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.5**
+
+### Added things:
+    - Added: server dynamical timezone
+    - Added: new columns to guild_config (table.json)
+
+### Bug fixes & other changes:
+    - Changed: reply handling to followUp
+    - Removed: old columns (table.json)
+
+### Dashboard:
+    - /
+
+<br />
+
+# **BETA VERSION 0.49.4**
+
+### Added things:
+    - Added: debug log
+    - Added: new command to transform data between tables (owner only)
+    - Added: cache to checkForScam function
+    - Added: errorcode handling to checkDatabase function
+    - Added: blacklist for guilds in guildCreate and messageCreate
+
+### Bug fixes & other changes:
+    - Chore(deps): @twurple/auth from 5.2.0 to 5.2.2
+    - Chore(deps): @twurple/api from 5.2.0 to 5.2.2
+    - Chore(deps): undici from 5.8.1 to 5.9.1
+    - Chore(deps): canvacord from 5.4.3 to 5.4.6
+    - Chore(deps): discord.js from 14.1.2 to 14.3.0
+    - Chore(deps): nodemailer from 6.7.7 to 6.7.8
+    - Chore(deps): @napi-rs/canvas from 0.1.26 to 0.1.28
+    - Multiple code improvements
+    - Modroles knw uses another database
+    - Fixed but still broken: Cacherefresh
+    - Updated: memberinfo
+    - - moved data handling to new table & added full cache support
+    - Fixed: Remove mute role bug
+    - Updated: ReactionRoles setting to messageid instead of message link
+    - Updated: Made afk response more readable
+    - Updated: Table file
+
+### Dashboard:
+    - /
+
+<br><br>
+
 # **BETA VERSION 0.49.3**
 
 ### Added things:
