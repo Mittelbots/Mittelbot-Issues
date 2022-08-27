@@ -15,6 +15,19 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.6**
+
+### Added things:
+    - Added: default message to errorhandler when no data is passed
+
+### Bug fixes & other changes:
+    - Fixed: youtube notifier
+
+### Dashboard:
+    - /
+
+<br><br>
+
 # **BETA VERSION 0.49.5**
 
 ### Added things:
@@ -28,7 +41,7 @@
 ### Dashboard:
     - /
 
-<br />
+<br><br>
 
 # **BETA VERSION 0.49.4**
 
