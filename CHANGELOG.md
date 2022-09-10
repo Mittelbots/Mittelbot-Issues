@@ -15,6 +15,139 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.14**
+
+### Added things:
+    - Added: cache to all temproles & open_infraction calls
+
+### Bug fixes & other changes:
+    - Cleared-up: index file
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.13**
+
+### Added things:
+    - Added: Cache to guildMemberAdd & createInfractionId
+    - Added: workflows for github repo
+    - Added: new log design on error
+    - Added: new owner command to export the latest log
+
+### Bug fixes & other changes:
+    - Changed/Removed: old db queries & added new functions
+    - /infractions command improvements
+    - Chore(deps): Bump uuid from 8.3.2 to 9.0.0
+    - Hot-Fix: Errorhandler bot crash
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.12**
+
+### Added things:
+    - /
+
+### Bug fixes & other changes:
+    - Fixed/Removed: old db query & moved to new function in getMemberInfo
+    - Fixed: parsed error in getMemberInfo
+    - Changed: shard event to once event
+    - Fixed: highest role bug in checkMessage
+    - Fixed: errorhandler
+    - Code improvements
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.11**
+
+### Added things:
+    - Added: Support for custom link to yt notifier setting
+
+### Bug fixes & other changes:
+    - Chore: Bump dotenv from 16.0.1 to 16.0.2
+    - Fixed: permissionsIn throws error
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.10**
+
+### Added things:
+    - Added: file & linennumber from called file to errorhandler
+
+### Bug fixes & other changes:
+    - Fixed: ignoremode cache eror
+    - Fixed: bug when apply from dataset is null
+    - Fixed: /cacherefresh doesnt refresh the cache
+    - Reworked: (global) disaled commands
+    - Removed: unused code & code improvements
+    - Fixed: guildCreate cache issue
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.9**
+
+### Added things:
+    - /
+
+### Bug fixes & other changes:
+    - Fixed: no permissio bug
+    - Fixed: yt notifier
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.8**
+
+### Added things:
+    - Added: joinroles to guild_config
+    - Added: levels to new level table
+
+### Bug fixes & other changes:
+    - Chore: Bump @twurple/api from 5.2.2 to 5.2.3 
+    - Chore: Bump ytdl-core from 4.10.0 to 4.10.1
+    - Chore: Bump @napi-rs/canvas from 0.1.28 to 0.1.29
+    - Chore: Bump @twurple/auth from 5.2.2 to 5.2.3
+    - Fixed: adding a role to the log whitelist caused a bot crash 
+    - Removed: old level table 
+
+### Dashboard:
+    - /
+
+<br><br>
+
+# **BETA VERSION 0.49.7**
+
+### Added things:
+    - Added: logs to guild_config
+    - Added: new db support for auditlog, messagelog & modlog
+    - Added warnroles to guild_config
+    - Added: message when an user already has all warnroles
+
+### Bug fixes & other changes:
+    - Removed: _config database
+    - Removed: unused code
+    - Changed: settings command handling
+
+### Dashboard:
+    - /
+
+<br><br>
+
 # **BETA VERSION 0.49.6**
 
 ### Added things:
