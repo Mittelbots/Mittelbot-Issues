@@ -15,6 +15,23 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.15**
+
+### Added things:
+    - Added: New slashcommand: checkguild to get informations about another guild
+
+### Bug fixes & other changes:
+    - clear-up slash command folder structure
+    - Fixed: open_infraction didnt got deleted from the cache
+    - Fixed: youtube infinity loading Bug
+    - Improved: Bot start & restart
+    - Bump: canvacord from 5.4.6 to 5.4.7
+
+### Dashboard:
+    - Fixed: Dashboard crashs the bot after changing the function in core
+
+<br><br>
+
 # **BETA VERSION 0.49.14**
 
 ### Added things:
