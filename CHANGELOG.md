@@ -15,6 +15,26 @@
 
 # **MITTELBOT CHANGELOG**
 
+# **BETA VERSION 0.49.17**
+
+### Added things:
+    - Bump nodemon from 2.0.19 to 2.0.20
+    - Bump @twurple/api from 5.2.3 to 5.2.4
+    - Bump @twurple/auth from 5.2.3 to 5.2.4
+    - Added: Docker (not working atm)
+    - Added: rateLimit event to bot
+
+### Bug fixes & other changes:
+    - Changed: rss-parser timeout errorhandler to debug log instead of errorr log
+    - Fixed: Timout error in youtube notifer will now be send to the debug log instead of error log
+    - Clear-u: config files
+    - Fixed: /infraction error and added guild_id to closed_infraction table
+
+### Dashboard:
+    - 
+
+<br><br>
+
 # **BETA VERSION 0.49.15**
 
 ### Added things:
